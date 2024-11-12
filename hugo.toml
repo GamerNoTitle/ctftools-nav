@@ -1,4 +1,4 @@
-baseURL = "http://ctftools.bili33.top/"
+baseURL = "https://ctftools.bili33.top/"
 languageCode = "zh-CN"
 title = "CTF工具箱 | GamerNoTitle"
 theme = "hugo-webstack"
