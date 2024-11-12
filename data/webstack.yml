@@ -19,7 +19,7 @@
       url: https://gchq.github.io/CyberChef/
       description: 赛博厨师一把梭！
 
-- taxonomy: 其他工具（可能不是CTF相关的）
+- taxonomy: 其他工具（可能非CTF相关）
   icon: fa-solid fa-wrench
   links:
     - title: WAR308密码计算器
