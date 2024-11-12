@@ -39,7 +39,7 @@
       url: https://www.nssctf.cn/
       description:
 
-- taxonomy: 其他工具（可能非CTF）
+- taxonomy: 其他工具
   icon: fa-solid fa-wrench
   links:
     - title: WAR308密码计算器
