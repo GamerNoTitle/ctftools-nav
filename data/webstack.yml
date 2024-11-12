@@ -19,7 +19,7 @@
       url: https://gchq.github.io/CyberChef/
       description: 赛博厨师一把梭！
 
-- taxonomy: 靶场
+- taxonomy: 在线靶场
   icon: fa-solid fa-shield-cat
   links:
     - title: 攻防世界
