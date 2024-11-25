@@ -10,6 +10,10 @@
     - title: base64换表编码/解码器
       url: https://bili33.top/base64
       description: 可换表的base64编码/解码器
+    - title: 魔曰
+      logo: 
+      url: https://bili33.top/abracadabra/
+      description: Abracadabra 魔曰，安全高效的文本脱敏和加密工具
 
 - taxonomy: 社区工具
   icon: fa-solid fa-users
